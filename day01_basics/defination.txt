@@ -1,0 +1,40 @@
+Python is a high-level, interpreted programming language known for its simple, readable syntax,
+ which emphasizes readability and reduces maintenance costs. It is highly versatile and used for
+ web development, data science, AI, and automation, making it popular among beginners and professionals
+
+
+
+“#” known as pound symbol in python using for add comments in python we can add multiline and single line comments in python 
+#this is single line comments 
+
+
+# This is a block of code
+# that has been commented out
+# using multiple hash symbols.
+# Each line is technically a single-line comment.
+
+
+
+"""
+This is a multiline string
+that can be used as a comment
+because it is not assigned to a variable.
+"""
+
+REPL in python is (read evaluate print loop) used for run python 
+In cmd like >>>
+
+>>> # Use the REPL as a simple calculator
+>>> 5 + 10
+15
+>>> 2 * 2 / 8
+0.5
+>>> 
+>>> # Assign variables and use them
+>>> greeting = "Hello, REPL!"
+>>> print(greeting)
+Hello, REPL!
+
+
+( ‘’’ ‘’’ ) used for add lines in python like if we want to add many lines like poem than we need to add print again and again with the help of ‘’’ ‘’’ we can easily add Multiple lines easily 
+
